@@ -1,5 +1,3 @@
----
-
 # Airbnb Data Analysis - Athens
 
 <center>
@@ -9,14 +7,16 @@
 Stavrialena Gontzou](https://unsplash.com/@stavrialena) in [Unsplash](https://unsplash.com/)*
 </center>
 
-[Airbnb](https://www.airbnb.com.br/) it's already considered the **biggest hospitality company in the world**. Oh, and the most curious thing it's **they don't have any hotel**!
+It's likely you already know [Airbnb](https://www.airbnb.com.br/) — the biggets American vacation rental online marketplace company, offering arrangement for lodging, primarily homestays, or tourism experiences. 
 
-Connecting people who want to travel (and stay) with hosts who want to rent their own properties in a practical way, Airbnb offers their innovative platform to make this alternative host model come into reality.
+Connecting people around the world, the community is powered by hosts, who provide their guests with the unique opportunity to travel like a local.
 
-At the end of 2018, the Startup was founded at 10 years ago, had already **hosted over 300 million people around the world**, challenging traditional hotel chains.
-
-One of the Airbnb goals it's to provide data from their website, to one of the main countries of the world. On the [Inside Airbnb](http://insideairbnb.com/get-the-data.html) it's possible to download a big amount of data to develop Data Science projects and solutions.
+If you have an extra room, entire home, or expertise, you can earn money by sharing it with anyone in the world. You can host your home, activity, or do both. When you host is up to you.
 
 <center><img alt="Analisando Airbnb" width="20%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 
-**At this article, we're gonna analyze the Athens data, and see what insights can be extracted from the raw data.**
+In this article, I will show you why data analysis it's important even if you're trying to find some place to rent and travel. The country I choosed to analyze was Athens — Greece.
+
+Showing that the data mining and data processing it's very important stage — to me, the most important —, and if it's not analyzed correctly, it may have bias.
+
+Even if you're not someone with data-driven thoughts and experiences, it gonna be clear how this new data world works.
