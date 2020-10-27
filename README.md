@@ -1,5 +1,7 @@
 # Airbnb Data Analysis - Athens
 
+[![author](https://img.shields.io/badge/author-caiommoreno-red.svg)](https://www.linkedin.com/in/caio-m-moreno-293364156/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-385/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/caiommoreno/rio_de_janeiro/issues)
+
 <center>
 <img alt="Athens" width="80%" src="https://images.unsplash.com/photo-1557686583-560ae7baba2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80">
 
